@@ -13,8 +13,6 @@ from src.detection import HeadDetector
 from src.extraction import FaceFeatureExtractor
 from src.config import LABELS
 
-st.set_option('server.runOnSave', False)
-
 # Khởi tạo model
 detector = HeadDetector()
 extractor = FaceFeatureExtractor()
