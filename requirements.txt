@@ -26,7 +26,10 @@ loguru
 ray
 
 # 🚀 XỬ LÝ ẢNH
+
 opencv-python-headless
+libgl1
+libglib2.0-0
 pillow
 
 # 🚀 API & NETWORKING

@@ -8,9 +8,11 @@ uploaded_file = st.file_uploader("Chọn ảnh để phân tích", type=["jpg", 
 
 if uploaded_file:
     image = Image.open(uploaded_file)
-    st.image(image, caption="Ảnh đã tải lên", use_column_width=True)
+    st.image(image, caption="Ảnh đã tải lên", use_container_width=True)
 
-API_URL = "https://your-api.railway.app/predict/"
+API_URL = "http://127.0.0.1:8000/predict/"
+
+# API_URL = "https://your-api.railway.app/predict/"
 
 if uploaded_file:
     # Lưu ảnh tạm thời
