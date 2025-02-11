@@ -1,0 +1,7 @@
+2025-02-11 09:41:37,537 - INFO - ✅ Test log hệ thống
+2025-02-11 09:54:26,687 - INFO - 🔍 Test log từ FastAPI
+2025-02-11 09:54:31,545 - INFO - [System] 📥 Nhận request từ file: img_1.jpg
+2025-02-11 09:56:19,317 - INFO - [System] 📥 Nhận request từ file: img_1.jpg
+2025-02-11 09:59:49,371 - INFO - [System] 📥 Nhận request từ file: img_1.jpg
+2025-02-11 10:11:40,943 - INFO - [System] 📥 Nhận request từ file: img_1.jpg
+2025-02-11 10:15:21,214 - INFO - [System] 📥 Nhận request từ file: tmp4a8mf3zz.jpg

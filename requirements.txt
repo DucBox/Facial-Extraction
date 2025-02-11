@@ -1,0 +1,39 @@
+# 🚀 CORE PYTHON
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# 🚀 FASTAPI (Backend)
+fastapi
+uvicorn
+
+# 🚀 STREAMLIT (Frontend)
+streamlit
+requests
+
+# 🚀 AI & MACHINE LEARNING
+torch
+torchvision
+ultralytics  # YOLOv8
+tensorflow
+tensorflow-hub
+keras
+
+# 🚀 LOGGING & MONITORING
+loguru
+ray
+
+# 🚀 XỬ LÝ ẢNH
+opencv-python
+pillow
+
+# 🚀 API & NETWORKING
+aiohttp
+httpx
+
+# 🚀 UTILITIES
+tqdm
+python-multipart  # Hỗ trợ upload file trong FastAPI
+pydantic  # Data validation cho API
