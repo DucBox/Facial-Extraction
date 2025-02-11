@@ -26,7 +26,6 @@ loguru
 ray
 
 # 🚀 XỬ LÝ ẢNH
-opencv-python
 opencv-python-headless
 pillow
 
