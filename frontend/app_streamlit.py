@@ -25,7 +25,7 @@ uploaded_file = st.file_uploader("Chọn ảnh để phân tích", type=["jpg", 
 if uploaded_file:
     # Hiển thị ảnh gốc
     image = Image.open(uploaded_file)
-    st.image(image, caption="Ảnh đã tải lên", use_column_width=True)
+    st.image(image, caption="Ảnh đã tải lên", use_container_width=True)
 
     # Lưu ảnh vào file tạm
     with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as temp_file:
