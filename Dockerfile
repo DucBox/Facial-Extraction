@@ -11,7 +11,11 @@ RUN apt-get update && apt-get install -y \
     libsm6 \
     libxrender1 \
     libxext6 \
+    ffmpeg\
+    libsm6\
+    libxext\
     && rm -rf /var/lib/apt/lists/*
+
 
 # Copy toàn bộ mã nguồn vào container
 COPY . /app
