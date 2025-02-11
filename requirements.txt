@@ -27,6 +27,7 @@ ray
 
 # 🚀 XỬ LÝ ẢNH
 opencv-python
+opencv-python-headless
 pillow
 
 # 🚀 API & NETWORKING
