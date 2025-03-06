@@ -47,8 +47,7 @@ Access the application at `http://localhost:8501`
 ---
 
 ## 📜 License & Author
-- 📌 **Author:** DucBox
+- 📌 **Author:** Ngo Quang Duc
 - 📌 **Contact:** quangducngo0811@gmail.com
 
-🚀 Happy coding! 🎉
 
